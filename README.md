@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,vscode,platformio,github,git,linux,docker,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,vscode,platformio,github,git" />
   <br>
   <img src="https://img.shields.io/badge/ESP32-IDF-blue?logo=espressif&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/STM32-CortexM-blue?logo=stmicroelectronics&style=for-the-badge" />
@@ -76,14 +76,6 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/your-github-username/esp32-lvgl-gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=esp32-lvgl-gui&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/your-github-username/stm32-sensor-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=stm32-sensor-hub&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 

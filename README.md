@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,vscode,platformio,github,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,platformio,github,git,squareline" />
   <br>
   <img src="https://img.shields.io/badge/ESP32-IDF-blue?logo=espressif&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/STM32-CortexM-blue?logo=stmicroelectronics&style=for-the-badge" />
